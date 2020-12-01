@@ -14,7 +14,7 @@ const templateMenu = `
         <a id="links" href="#portafolio">Portfolio</a>
     </div>
     <div>
-        <a href="#contactos" class="boton-1">Contact</a>
+        <a href="#contacto" class="boton-1">Contact</a>
     </div>
 </div>
 `;
