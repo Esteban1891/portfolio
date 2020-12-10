@@ -8,13 +8,13 @@ let estadoM = false;
 const templateMenu = `
 <div class="padre">
     <div>
-        <a id="links" href="#">Inicio</a>
-        <a id="links" href="#sobreMi">Sobre Mi</a>
+        <a id="links" href="#">Home</a>
+        <a id="links" href="#sobreMi">About Me</a>
         <a id="links" href="#skills">Skills</a>
-        <a id="links" href="#portafolio">Portafolio</a>
+        <a id="links" href="#portafolio">Portfolio</a>
     </div>
     <div>
-        <a href="#contacto" class="boton-1">Contactos</a>
+        <a href="#contacto" class="boton-1">Contact</a>
     </div>
 </div>
 `;
