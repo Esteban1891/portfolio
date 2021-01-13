@@ -1080,3 +1080,31 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+/*--------------------------------------------------------------
+# Download Summary
+--------------------------------------------------------------*/
+
+.boton-1 {
+  padding: 5px 10px;
+  background: #149ddd;
+  margin: 10px 0px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: white !important;
+  font-weight: 400;
+  font-size: 16px !important;
+  border: 2px solid #149ddd;
+  font-weight: bold;
+  -webkit-box-shadow: 0px 2px 2px #5abcfd;
+  box-shadow: 0px 2px 2px #5abcfd;
+}
+
+.boton-1:hover {
+  -webkit-transition: all .3s;
+  transition: all .3s;
+  border: 2px solid #149ddd;
+  background-color: transparent;
+  color: #149ddd !important;
+  text-decoration: none !important;
+}
