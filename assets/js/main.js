@@ -1,7 +1,8 @@
 /**
 * Template Name: iPortfolio - v1.5.0
 * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: Esteban De La Hoz
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
 */
 !(function($) {
   "use strict";
